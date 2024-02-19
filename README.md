@@ -4,6 +4,8 @@ Este é um repositório de estudo cuja intenção é implementar em Agda, utiliz
 
 Em termos simples, a modalidade Flat é uma característica da linguagem Agda que permite que a Teoria de Tipos de Homotopia seja aplicada computacionalmente para os fins do Teste de Montague. Para ler mais sobre essa modalidade, acesse o endereço a seguir: <https://agda.readthedocs.io/en/latest/language/flat.html>.
 
+Este repositório foi forkado de @zwanzingerc.
+
 ## Sentenças do Teste de Montague e Interpretações
 
 ![image](https://github.com/Lisanju/Montague-Test/assets/106002045/8812cd3d-fe33-4c57-b6ee-d40959d6262f)
