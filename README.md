@@ -2,7 +2,7 @@
 
 Este é um repositório de estudo cuja intenção é implementar em Agda, utilizando da modalidade Flat, um framework de semântica computacional da linguagem natural através do arcabouço teórico da Semântica de Montague. Em específico, o repositório trata de fornecer formas lógicas para a interpretação das sentenças do Teste de Montague.
 
-Em termos simples, a modalidade Flat é uma característica da linguagem Agda que permite que a Teoria de Tipos de Homotopia sejam aplicados computacionalmente para os fins do Teste de Montague. Para ler mais sobre essa modalidade, acesse o endereço a seguir: <https://agda.readthedocs.io/en/latest/language/flat.html>.
+Em termos simples, a modalidade Flat é uma característica da linguagem Agda que permite que a Teoria de Tipos de Homotopia seja aplicada computacionalmente para os fins do Teste de Montague. Para ler mais sobre essa modalidade, acesse o endereço a seguir: <https://agda.readthedocs.io/en/latest/language/flat.html>.
 
 ## Sentenças do Teste de Montague e Interpretações
 
