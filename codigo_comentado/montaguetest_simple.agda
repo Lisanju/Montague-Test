@@ -20,7 +20,7 @@ postulate
   slowly try : ♭ (♭ E → Type₀) → ♭ E → Type₀
   In : ♭ (♭ (♭ E → Type₀) → Type₀) → ♭ (♭ E → Type₀) → ♭ E → Type₀ 
 
--- Sentença do Teste de Montague
+-- Sentenças do Teste de Montague
 {- John walks. -}
 
 Johnwalks : Type₀
