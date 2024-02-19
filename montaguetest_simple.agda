@@ -1,7 +1,7 @@
 {-# OPTIONS --without-K #-}
 {-# OPTIONS --no-flat-split #-}
 
-module MontagueTest-Simple where
+module montaguetest_simple where
 
 open import lib.Basics
 open import lib.types.Sigma
