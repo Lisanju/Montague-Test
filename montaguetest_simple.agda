@@ -5,7 +5,7 @@ module MontagueTest-Simple where
 
 open import lib.Basics
 open import lib.types.Sigma
-open import Flat
+open import flat
 
 postulate
   E : Type₀
